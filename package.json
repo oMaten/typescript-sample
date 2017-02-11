@@ -1,0 +1,11 @@
+{
+  "name": "typescript-sample",
+  "version": "1.0.0",
+  "description": "sample of handbook in typescript",
+  "main": "index.js",
+  "author": "oMaten <murolq@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.1.6"
+  }
+}
